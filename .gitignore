@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment Variables (Security)
+.env
+.env.local
+
+# Vite Temporary Files
+*.timestamp-*.mjs
